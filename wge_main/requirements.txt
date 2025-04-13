@@ -1,0 +1,15 @@
+# For MiniWoB
+numpy
+scipy
+Pillow
+selenium
+pytest
+jsonpickle
+Fabric
+futures
+pyhocon
+ipython
+tqdm
+gitpython
+tensorboard_logger
+twisted
